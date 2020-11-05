@@ -1,0 +1,16 @@
+NAF All ---  https://id.loc.gov/authorities/names/suggest/?q=<QUERY>&count=25 
+NAF Personal Names ---  https://id.loc.gov/authorities/names/suggest/?q=<QUERY>&rdftype=PersonalName&count=25
+NAF Corporate Name ---  https://id.loc.gov/authorities/names/suggest/?q=<QUERY>&rdftype=CorporateName&count=25
+NAF Name/Title ---  https://id.loc.gov/authorities/names/suggest/?q=<QUERY>&rdftype=NameTitle&count=25
+NAF Title ---  https://id.loc.gov/authorities/names/suggest/?q=<QUERY>&rdftype=Title&count=25
+NAF Geographic ---  https://id.loc.gov/authorities/names/suggest/?q=<QUERY>&rdftype=Geographic&count=25
+NAF Conference Name ---  https://id.loc.gov/authorities/names/suggest/?q=<QUERY>&rdftype=ConferenceName&count=25				
+LCSH All ---  https://id.loc.gov/authorities/subjects/suggest/?q=<QUERY>&count=25 					
+LCSH Topics ---  https://id.loc.gov/authorities/subjects/suggest/?q=<QUERY>&rdftype=Topic&count=25
+LCSH Geographic ---  https://id.loc.gov/authorities/subjects/suggest/?q=<QUERY>&rdftype=Geographic&count=25
+LCSH Name ---  https://id.loc.gov/authorities/subjects/suggest/?q=<QUERY>&rdftype=Name&count=25
+LCSH FamilyName ---  https://id.loc.gov/authorities/subjects/suggest/?q=<QUERY>&rdftype=FamilyName&count=25
+LCSH CorporateName ---  https://id.loc.gov/authorities/subjects/suggest/?q=<QUERY>&rdftype=CorporateName&count=25					
+LCSH GenreForm ---  https://id.loc.gov/authorities/subjects/suggest/?q=<QUERY>&rdftype=GenreForm&count=25
+LCSH Simple Type ---  https://id.loc.gov/authorities/subjects/suggest/?q=<QUERY>&rdftype=SimpleType&count=25
+LCSH Complex Subject ---  https://id.loc.gov/authorities/subjects/suggest/?q=<QUERY>&rdftype=ComplexSubject&count=25	
